@@ -1,7 +1,3 @@
-Inscreva-se no canal.
-
-https://www.youtube.com/channel/UCjtLbp8pTQjt_sPijCx29rA/videos
-
 Instale o python.
 
 Execute o install.bat
